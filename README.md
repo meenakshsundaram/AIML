@@ -1,10 +1,7 @@
-# patternrecognitionmachinelearningbishop
+# AIML 
 
-This repository houses:
+This repository houses some of my explorations in Areas of AIML. This will house some: 
 1. DataSets
-2. Solved examples and problems 
-from the book "Pattern Recognition and Machine Learning" By Christopher M. Bishop
+2. Models
 
-https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
-
-All codes are built using python 3.8.3
+All codes are written in python, jupyter notebooks and openly sourced
