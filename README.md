@@ -1,6 +1,6 @@
 # AIML 
 
-This repository houses some of my explorations in Areas of AIML. This will house some: 
+This repository houses some of our explorations in Areas of AIML. This will house some: 
 1. Study Material
 2. Explorations
 3. Datasets
